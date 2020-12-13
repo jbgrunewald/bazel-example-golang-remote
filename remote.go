@@ -1,5 +1,6 @@
 package main
 
-func main() string {
-	return "remote.World!"
+func main() {
+	print("remote.World!")
+	return
 }
