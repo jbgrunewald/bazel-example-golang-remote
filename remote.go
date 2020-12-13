@@ -1,5 +1,5 @@
-package remote
+package main
 
-func World() string {
+func main() string {
 	return "remote.World!"
 }
